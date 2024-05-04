@@ -1,5 +1,5 @@
 #Game link https://547man.github.io/snake/
-
+#Finished on 04.04.2024
 Here you will find the project that I made to test my knowledge and implement something that I learned.
 Each project folder will have a word document in it.
 The document will contain mainly:
